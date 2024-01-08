@@ -87,3 +87,16 @@ Classificação dos tipos de atributos
 
 **Atributo Chave:** Identifica exclusivamente uma entidade em um conjunto de entidades. Por exemplo, o número da Segurança Social pode ser usado como um atributo chave para a entidade Pessoa.
 
+## DER - Diagrama Entidade Relacionamento
+Ferramenta - BrModelo
+![image](https://github.com/lanmeb/sql-brh/blob/main/DER.png)
+
+## MLD - Modelo Lógico de Dados 
+Ferramenta - BrModelo
+![image](https://github.com/lanmeb/sql-brh/blob/main/MLD.png)
+
+## MFD - Modelo Físico de Dados
+Ferramenta - Power Architect
+
+![image](https://github.com/lanmeb/sql-brh/blob/main/MFD_Elania.png)
+
