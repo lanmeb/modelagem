@@ -50,7 +50,7 @@ title: Exemplo de pedido
 ---
 erDiagram
     CLIENTE ||--o{ PEDIDO : places
-    PEDIDO ||--|{ LINE-ITEM : contains
+    PEDIDO ||--|{ ITEM : contains
     CLIENTE }|..|{ DELIVERY-ENDERECO : uses
 ```
 <!--Mais sintaxe e diagramas de exemplo [aqui](https://mermaid-js.github.io/)-->
